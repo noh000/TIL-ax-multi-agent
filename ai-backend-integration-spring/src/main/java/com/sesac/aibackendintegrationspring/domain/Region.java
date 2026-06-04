@@ -15,6 +15,6 @@ public class Region {
     private Long id;
     private String name;
     private List<String> landmark;
-    private double area;
-    private long population;
+    private Double area;
+    private Long population;
 }
