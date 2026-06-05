@@ -14,7 +14,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicLong;
 
 @RestController
-@RequestMapping("/legacy/regions")
+@RequestMapping("/regions")
 
 public class RegionController {
 
